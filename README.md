@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hey, I'm Srishti 
 
-<!--
-**SrishtiGupta02/SrishtiGupta02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a B.Tech IT student who enjoys building things and figuring out
+how they work.
 
-Here are some ideas to get you started:
+Right now, I'm exploring software development, AI/ML and systems,
+while getting deeper into DSA and computer science fundamentals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I usually have a few things going on at once, from building projects
+to experimenting with new technologies and contributing to things
+I find interesting.
+
+### What I'm working with
+
+C++ · Python · C · SQL · JavaScript · TypeScript
+
+Next.js · React · Flask · REST APIs
+
+NumPy · Pandas · Scikit-learn · Supabase · MySQL
+
+### Currently
+
+Learning more about Machine Learning, DSA and backend development.
+
+Also trying to contribute more to open source and get better at
+building software with other people, not just on my own.
+
+### Find me
+
+[LinkedIn](https://www.linkedin.com/in/srishtigupta217/) ·
+[Email](mailto:srishtigupta217@gmail.com)
